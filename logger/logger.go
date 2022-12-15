@@ -52,7 +52,7 @@ var Logger = newLogger()
 func newLogger() *logger {
 	return &logger{
 		Logger: log.New(os.Stdout, "", log.LstdFlags),
-		level:  OFF,
+		level:  DEBUG,
 	}
 }
 

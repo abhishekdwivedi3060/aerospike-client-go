@@ -11,6 +11,7 @@ PLAN.todo
 .go_metalinter
 .go_style
 .golangci.yml
+.idea/
 .travis/read-write-udf.ldif
 .travis/people.ldif
 .travis/modify.ldif
